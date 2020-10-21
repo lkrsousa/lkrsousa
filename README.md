@@ -15,7 +15,7 @@ Onde me encontrar? :mag:
 
 <a href="https://https://www.linkedin.com/in/luana-sousa-38b00287"><img src="https://github.com/lkrsousa/lkrsousa/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/luana-sousa-38b00287/)  
 
-<a href="mailto:lkrsousa@gmail.com"><img src="https://github.com/leticiadasilva/lkrsousa/blob/main/images/email.png" width="16"></img></a> [Email](mailto:lkrsousa@gmail.com)  
+<a href="mailto:lkrsousa@gmail.com"><img src="https://github.com/lkrsousa/lkrsousa/blob/main/images/gmail.png" width="16"></img></a> [Email](mailto:lkrsousa@gmail.com)  
 
 ---  
 
