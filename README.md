@@ -5,8 +5,21 @@
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lkrsousa&theme=buefy"/></td>
     </tr>   
 </table>
-</center>  
+</center>
 
+Onde me encontrar? :mag:  
+
+<a href="https://twitter.com/luuh_krs"><img src="https://github.com/lkrsousa/lkrsousa/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/luuh_krs)   
+
+<a href="https://www.instagram.com/luuh_krs"><img src="https://github.com/lkrsousa/lkrsousa/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/luuh_krs)  
+
+<a href="https://https://www.linkedin.com/in/luana-sousa-38b00287"><img src="https://github.com/lkrsousa/lkrsousa/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/luana-sousa-38b00287/)  
+
+<a href="mailto:lkrsousa@gmail.com"><img src="https://github.com/leticiadasilva/lkrsousa/blob/main/images/email.png" width="16"></img></a> [Email](mailto:lkrsousa@gmail.com)  
+
+---  
+
+![](https://komarev.com/ghpvc/?username=lkrsousa&color=blue&style=flat)
 
 
 
