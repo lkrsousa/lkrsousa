@@ -12,7 +12,7 @@
 ### Eiii <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 - ⚙️ Uso diariamente: `.scala` e `.sql`
-- 🔭 Data engineer na Accenture
+- 🔭 Data engineer
 - 🌱 Estudando python e big data em geral
 - 💬 gosto de falar sobre scala, spark, sql, tecnologia, programação, feminismo, harry potter
 
