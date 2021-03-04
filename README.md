@@ -14,7 +14,7 @@
 - ⚙️ Uso diariamente: `.scala` e `.sql`
 - 🔭 Data engineer
 - 🌱 Estudando python e big data em geral
-- 💬 gosto de falar sobre scala, spark, sql, tecnologia, programação, feminismo, harry potter
+- 💬 gosto de falar sobre scala, spark, sql, tecnologia, programação, feminismo e harry potter
 
 📫 Meus contatos   
 
